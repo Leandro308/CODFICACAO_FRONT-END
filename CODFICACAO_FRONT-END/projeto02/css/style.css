@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.home{
+    background-color: grey;
+    color:white
+}
+
+.titulo{
+    color:white
+}
+
+.p1{
+    color:white
+}
+
+.p2{
+    color: white;
+}
+
+.p3{
+    color:white
+}
+
+.capa{
+    height: 380px;
+    background-repeat: no-repeat;
+    background-image: url("./img/capa.jpg");
+    background-position: center;
+}
+
+.box2{
+    height: 50px;
+    background-color: slategray;
+    color:white;
+    font-variant-position: initial ;
+}

@@ -1,0 +1,23 @@
+#textoVermelho{
+    color: red;
+    font-size: 20px
+}
+
+#textoAzul{
+    color: blue;
+    font-size: 20px;
+}
+
+#textoVerde{
+    color: green;
+    font-size: 20px;
+}
+
+#textoAmarelo{
+    color: yellow;
+    font-size: 20px;
+}
+
+.subtitulo{
+    background-color: gray;
+}
